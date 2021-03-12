@@ -1,6 +1,7 @@
-# Git Kata
+# Git Kata - Part 1
 
 This set of katas will focus on using skills within Git that we use frequently.
+There are many exercises we could do with `git`, and this set is just a few of them.
 
 ## Challenge 1 - Pull a branch from another remote repository
 
@@ -39,7 +40,7 @@ By the time you're done, you should be able to run `git lp` (from challenge abov
 - docs: Instructions for Git Kata
 ```
 
-If you want to push this branch to your remote repo (assuming it exists in the remote), you'll have to force push.
+If you want to push this branch to your remote repository (assuming it exists in the remote), you'll have to force push.
 Again, this should almost never happen on a shared branch, and if it does, the team should be aware and probably do it together.
 
 
